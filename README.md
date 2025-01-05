@@ -1,9 +1,12 @@
-# 👋 Welcome to My GitHub!
+# 👋 Welcome!!
 ![Welcome Banner](assets/coffee.jpg)
 
 Hi, my name is Jee Shian. I am passionate in **Fullstack Development and Artificial Intelligence** with expertise in **MERN Stack, Generative AI, Machine Learning**. I thrive on building innovative solutions and tackling challenging problems.
 
+
 ---
+
+
 
 ## 🚀 About Me
 
