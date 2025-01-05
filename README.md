@@ -41,17 +41,6 @@ Hi, my name is Jee Shian. I am passionate in **Fullstack Development and Artific
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fortuneCook1e&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fortuneCook1e&layout=compact&theme=radical)
 
----
-
-## 🌟 Featured Projects
-
-- [Netflix Clone](https://github.com/your-username/netflix-clone)  
-  Full-stack MERN application for browsing and filtering movies dynamically.  
-  **Tech Stack**: ReactJS, NodeJS, MongoDB, JWT.
-
-- [RAG Chatbot](https://github.com/your-username/rag-chatbot)  
-  Retrieval-Augmented Generation chatbot for domain-specific Q&A using Llama 3 and ChromaDB.  
-  **Tech Stack**: Python, FastAPI, Llama 3, ChromaDB.
 
 ---
 
