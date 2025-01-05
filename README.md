@@ -1,6 +1,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=fortuneCook1e&style=flat-square&color=blue)
-
-# 👋 Welcome!!
+<div align="left">
+  <img src="assets/hello.png" alt="hello" style="width: auto; height: auto;" />
+</div>
 <div align="center">
   <img src="assets/coffee.gif" alt="Welcome Banner" style="width: 100%; height: auto;" />
 </div>
