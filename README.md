@@ -39,6 +39,12 @@ innovative solutions and tackling challenging problems.
 
 ---
 
+## 🏆 Highlights
+
+- 🏆 **Hackathon Achievement**: Top 16 finalist in The Reactor School Hackathon (Johor Region).
+- 🏅 **First-Class Honours**: Graduated with distinction in Computer Science.
+
+---
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fortuneCook1e&show_icons=true&theme=radical&count_private=true)
@@ -48,12 +54,6 @@ innovative solutions and tackling challenging problems.
 
 ---
 
-## 🏆 Highlights
-
-- 🏆 **Hackathon Achievement**: Top 16 finalist in The Reactor School Hackathon (Johor Region).
-- 🏅 **First-Class Honours**: Graduated with distinction in Computer Science.
-
----
 
 ## 📫 Let's Connect
 
