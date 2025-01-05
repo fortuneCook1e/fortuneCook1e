@@ -14,8 +14,8 @@ Hi, my name is Jee Shian. I am passionate in **Fullstack Development and Artific
 - 💻 **Focus Areas**: Full-Stack Development, Artificial Intelligence
 - 🌟 **Interests**: Outside of work, I enjoy staying active by playing sports, which helps me recharge and stay disciplined.
 - ☕ **Fun Fact**: I measure productivity in cups of coffee consumed per project :)
-- ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -84,6 +84,11 @@ Hi, my name is Jee Shian. I am passionate in **Fullstack Development and Artific
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fortuneCook1e&layout=compact&theme=radical)
 
 ---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fortuneCook1e&theme=radical)
+
+--
 
 ## 📫 Let's Connect
 
