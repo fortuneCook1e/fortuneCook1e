@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am passionate in **Fullstack Development and Art
 
 ### 🚀 Projects
 
-#### 1. [Netflix Clone](https://github.com/fortuneCook1e/netflix-clone)
+#### 1. [Netflix Clone](https://github.com/fortuneCook1e/netflix-clone-mern)
 - **Description**: A full-stack Netflix clone that allows users to browse and search movies/TV shows with dynamic content filtering and user authentication.
 - **Technologies**: MongoDB, Express.js, React.js, Node.js, JWT, Tailwind CSS, TMDB API.
 - **Key Features**:
