@@ -1,6 +1,6 @@
 # 👋 Welcome!!
 <div align="center">
-  <img src="assets/coffeegif.gif" alt="Welcome Banner" style="width: 100%; max-height: 400px;" />
+  <img src="assets/coffee.gif" alt="Welcome Banner" style="width: 100%; max-height: 400px;" />
 </div>
 
 
