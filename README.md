@@ -55,23 +55,6 @@ Hi, my name is Jee Shian. I am passionate in **Fullstack Development and Artific
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
----
-
-## 🏆 Highlights
-
-### 🚀 Projects
-
-#### 1. [Netflix Clone](https://github.com/fortuneCook1e/netflix-clone-mern)
-- **Description**: A full-stack Netflix clone that allows users to browse and search movies/TV shows with dynamic content filtering and user authentication.
-- **Technologies**: MongoDB, Express.js, React.js, Node.js, JWT, Tailwind CSS, TMDB API.
-- **Key Features**:
-  - User authentication (sign-up, login, logout) with secure token-based authentication.
-  - Integrated TMDB API for browsing and searching movie details.
-  - Responsive design using Tailwind CSS and deployment on Render.
-
-
-
 ---
 
 ## 🌟 Featured Skills
