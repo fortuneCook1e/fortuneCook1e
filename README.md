@@ -1,14 +1,17 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=fortuneCook1e&style=flat-square&color=blue)
-<div align="left">
-  <img src="assets/hello.png" alt="hello" style="width: auto; height: auto;" />
-</div>
+
 <div align="center">
-  <img src="assets/coffee.gif" alt="Welcome Banner" style="width: 100%; height: auto;" />
+  <img src="assets/applehello.gif" alt="Welcome Banner" style="width: 100%; height: auto;" />
 </div>
 
-## 💡 Fueling innovation with coffee and code.
 
-Hi, my name is Jee Shian. I am passionate in **Fullstack Development and Artificial Intelligence** with expertise in **MERN Stack, Generative AI, Machine Learning**. I thrive on building innovative solutions and tackling challenging problems.
+Hi, my name is Jee Shian. I am passionate in **Fullstack Development and Artificial Intelligence** 
+with expertise in **MERN Stack, Generative AI, Machine Learning**. I thrive on building 
+innovative solutions and tackling challenging problems.
+
+
+
+
 
 ---
 
