@@ -1,5 +1,8 @@
 # 👋 Welcome!!
-![Welcome Banner](assets/coffee.jpg)
+<div align="center">
+  <img src="assets/coffeegif.gif" alt="Welcome Banner" style="width: 100%; max-height: 400px;" />
+</div>
+
 
 Hi, my name is Jee Shian. I am passionate in **Fullstack Development and Artificial Intelligence** with expertise in **MERN Stack, Generative AI, Machine Learning**. I thrive on building innovative solutions and tackling challenging problems.
 
